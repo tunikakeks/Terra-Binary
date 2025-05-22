@@ -1,4 +1,4 @@
 jdk:
   - openjdk17
 install:
-  - mvn install:install-file -Dfile=Terra-common-6.6.1-BETA+016961c19-shaded -DgroupId=cn.powernukkitx -DartifactId=Terra -Dversion=6.4.3 -Dpackaging=jar -DgeneratePom=true
+  - mvn install:install-file -Dfile=Terra-common-6.6.1-BETA+016961c19-shaded.jar -DgroupId=cn.powernukkitx -DartifactId=Terra -Dversion=6.4.3 -Dpackaging=jar -DgeneratePom=true
